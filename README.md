@@ -87,10 +87,13 @@ void loop() {
 
 ```
 
-📊 Output
-Motion Status	LED	Serial Monitor
+📊 Output:
+
+Motion Status	LED	Serial Monitor.
+
 Motion Detected	ON	Motion Detected!
-No Motion	OFF	No Motion
+
+No Motion	OFF	No Motion.
 
 ✅ Conclusion
 
